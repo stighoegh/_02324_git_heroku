@@ -12,5 +12,10 @@
         <module name="_02324_git_heroku" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Lektion 10" target="1.8" />
+      <module name="Lektion 11" target="1.8" />
+      <module name="Lektion 12" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
